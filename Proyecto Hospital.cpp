@@ -48,8 +48,8 @@ void citas(list <citas_medicas> &Citas){
         cout <<"|\n/Bienvenido al sistema de citas de doctores/                              |\n"<< endl;
         cout <<"|____________________________________________________________________________|\n"<< endl;
         cout <<"|1. Ingresar una persona a una cita con un Doctor                            |\n"<< endl;
-        cout <<"|2. Eliminar a una persona de lista de un Doctor                             |\n"<< endl;
-        cout <<"|3. Mostrar lista de las citass                                              |\n"<< endl;
+        cout <<"|2. Eliminar a una persona de la lista de un Doctor                             |\n"<< endl;
+        cout <<"|3. Mostrar lista de las citas                                              |\n"<< endl;
         cout <<"|4. Volver                                                                   |\n"<< endl;
         cout <<"|____________________________________________________________________________|\n"<< endl;
         cout <<"| Introduzca un numero                                                       |\n"<< endl;
@@ -329,7 +329,7 @@ void pacientes_F(list <pacientes_F> &pacientes_F){
         cout <<"|Bienvenido al Menu de La Morgue                                             |\n"<< endl;
         cout <<"|____________________________________________________________________________|\n"<< endl;
         cout <<"|1. Ingresar el Nombre de la persona que fallecio                            |\n"<< endl;
-        cout <<"|2. Eliminar un cuarpo que a sido llevado a velorio                          |\n"<< endl;
+        cout <<"|2. Eliminar un cuerpo que a sido llevado al velorio                          |\n"<< endl;
         cout <<"|3. Ver lista de personas en la morgue                                       |\n"<< endl;
         cout <<"|4. Volver                                                                   |\n"<< endl;
         cout <<"|Introdusca el número de la acción a realizar                                |\n"<< endl;
