@@ -12,7 +12,7 @@ DESCRIPCIÓN:
 Dado el caso actual que se vive en el país sobre la pandemia y con los riesgos de contagio, hemos realizado lo que es una aplicación la cual su función sería como un hospital, que sin tener que exponerse se les mostrará un menú según lo que gusten.
 
 
-ESTRUCTUTAS:
+ESTRUCTURAS:
 
 1.Lista de citas médicas: esta lista se encarga de registrar a las personas que presenten que su estado de salud no es grave lo cual al registrarse pueden dar algunos síntomas que ya estos presenten para ayudar al doctor encargado que atienda al paciente.
 
